@@ -22,8 +22,8 @@ To set up this project locally, follow these steps:
 
 - 1. Clone the repository
 
-    git clone 
+- 2. git clone https://github.com/Kaif370Z/Computational-Theory.git
 
-- 2. cd into the repository
+- 3. cd into the repository
 
-- 3. pip install 
+- 4. pip install 
